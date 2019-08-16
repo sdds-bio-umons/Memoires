@@ -1,0 +1,67 @@
+Test;Ecole;Eleve;Q1;Q2s;Q2a;Q2b;Q2c;Q3;Q4s;Q4a;Q4b;Q4c;Total
+Contrôle;ARM;Franken Tiffany;1;3;2;2;1;0;0;0;1;0;55.55555556
+Contrôle;ARM;Halliday Brandon;0;3;2;1;1;0;0;0;0;0;38.88888889
+Contrôle;ARM;Lamon François;1;4;0;0;1;0;0;0;0;0;33.33333333
+Contrôle;ARM;Tuche Wilfried;1;3;0;2;1;0;0;0;0;0;38.88888889
+Contrôle;ARM;Jenart Aleandro;0;2;1;2;1;0;1;0;1;1;50
+Contrôle;ARM;Leconte Cassiopée;1;3;1;2;0;0;0;0;0;0;38.88888889
+Contrôle;ARM;Jaddad Rania;1;3;1;1;1;0;0;0;0;0;38.88888889
+Contrôle;ARM;Gadin Florian;0;1;1;0;0;0;0;0;0;0;11.11111111
+Contrôle;ARM;Lambecp Alexandre;0;2;1;0;1;0;0;0;0;0;22.22222222
+Contrôle;ARM;Koltas Laura;1;3;1;0;1;0;0;0;0;0;33.33333333
+Contrôle;ARM;Tuche Donald;1;4;2;1;1;0;1;0;1;0;61.11111111
+Contrôle;ARM;Ruykens Juliette;1;4;0;1;1;0;0;0;0;0;38.88888889
+Contrôle;ARM;Tournay Théo;1;4;1;1;1;0;1;0;1;0;55.55555556
+Contrôle;ARM;Vienne Clotilde;1;3;2;1;1;0;1;1;2;0;66.66666667
+Contrôle;ARM;Crombez Estelle;1;3;1;2;0;0;1;0;1;0;50
+Test;ARM;Ali Syed;1;1;1;1;1;0;2;0;1;1;50
+Test;ARM;Amslan Cemre;0;0;1;0;0;0;1;0;0;0;11.11111111
+Test;ARM;Britney;0;0;0;0;1;0;0;0;0;0;5.555555556
+Test;ARM;Pozzebon Romane;0;0;0;0;0;0;0;0;0;0;0
+Test;ARM;Erika;0;0;0;0;1;0;0;0;0;0;5.555555556
+Test;ARM;Manane;0;0;0;0;1;0;0;0;0;0;5.555555556
+Test;ARM;Saudoyer Clément;0;0;0;0;0;0;0;0;0;0;0
+Test;ARM;Masoch Sarah;0;1;0;0;0;0;0;0;0;0;5.555555556
+Test;ARM;Caudron Théo;0;0;1;0;0;0;0;0;0;0;5.555555556
+Test;ARM;Moray Manoé;0;0;0;0;0;0;0;0;0;0;0
+Test;ARM;Saudoyer Clara;0;0;0;0;1;0;0;0;0;0;5.555555556
+Contrôle;INDBE;Pettiaux Margaux;0;1;1;0;0;0;1;0;1;0;22.22222222
+Contrôle;INDBE;Steurbaut Sarah;0;1;2;0;1;0;2;0;0;0;33.33333333
+Contrôle;INDBE;Luyckx Elisa;0;3;2;0;1;0;0;0;0;0;33.33333333
+Contrôle;INDBE;Hallok Bryan;0;1;1;0;1;0;1;0;0;0;22.22222222
+Contrôle;INDBE;Ravez Elodie;1;3;1;0;1;0;2;1;1;0;55.55555556
+Contrôle;INDBE;Miette Mary;1;2;2;0;1;0;0;0;0;0;33.33333333
+Contrôle;INDBE;Iels Robin;0;3;2;0;1;0;2;0;0;0;44.44444444
+Contrôle;INDBE;Godeau Andy;0;3;2;0;1;0;0;0;0;0;33.33333333
+Contrôle;INDBE;Delhaux Victor;0;2;1;0;0;0;0;0;0;0;16.66666667
+Contrôle;INDBE;Chapelain Pierre;0;0;1;0;1;0;0;0;0;0;11.11111111
+Contrôle;INDBE;Daneels Manon;0;3;1;0;1;0;0;0;0;0;27.77777778
+Contrôle;INDBE;Delmarle Claire;0;2;0;0;1;0;0;0;0;0;16.66666667
+Contrôle;INDBE;Hazard Ethan;0;1;0;0;1;0;1;0;0;0;16.66666667
+Contrôle;INDBE;Gasana Chris;0;1;0;0;0;0;0;0;0;0;5.555555556
+Contrôle;INDBE;Sculier Luna;1;3;2;0;1;0;0;0;0;0;38.88888889
+Contrôle;INDBE;Gilissen William;0;3;2;0;0;0;0;0;0;0;27.77777778
+Contrôle;INDBE;Gauthier Manon;0;2;2;1;1;0;0;0;0;0;33.33333333
+Contrôle;INDBE;Thiélaux Eva;1;3;2;0;1;0;1;0;0;0;44.44444444
+Contrôle;INDBE;Dempsey Ewan;1;1;2;0;1;0;1;0;0;0;33.33333333
+Contrôle;INDBE;Ilamme Nolan;0;0;1;0;0;0;1;0;1;0;16.66666667
+Test;INDBE;Fostier Jonathan;0;4;2;1;0;1;1;1;1;0;61.11111111
+Test;INDBE;Chêne Laura;0;1;0;0;0;0;0;0;2;0;16.66666667
+Test;INDBE;Ilin Alexis;0;3;1;1;0;0;0;1;2;0;44.44444444
+Test;INDBE;Verheuren  Lola;0;1;1;0;0;0;2;0;2;0;33.33333333
+Test;INDBE;Pringarle Chiara;0;0;0;0;1;0;1;1;0;0;16.66666667
+Test;INDBE;Vanoperziellen Louis;0;3;1;0;1;0;1;1;1;0;44.44444444
+Test;INDBE;Matthys Marie;0;3;0;0;1;0;2;0;1;0;38.88888889
+Test;INDBE;Itangishaka Stella;0;3;1;0;1;0;0;0;0;0;27.77777778
+Test;INDBE;Vasilesw Ana;0;3;0;0;1;0;2;0;1;1;44.44444444
+Test;INDBE;Larchi Iman;0;4;1;0;0;1;2;0;2;0;55.55555556
+Test;INDBE;Sevrin Laura;0;1;0;0;0;1;2;0;0;0;22.22222222
+Test;INDBE;Duvieux Sébastien;0;1;0;0;0;0;0;0;0;0;5.555555556
+Test;INDBE;Dewleesckouwer Emilie;0;2;0;0;1;0;2;1;1;0;38.88888889
+Test;INDBE;Uganecharie Darius;0;3;0;0;1;0;2;0;2;1;50
+Test;INDBE;Janssens Florian;0;0;1;0;1;0;2;0;0;0;22.22222222
+Test;INDBE;Bertrand Romain;0;0;0;0;1;0;2;1;0;0;22.22222222
+Test;INDBE;André Margaux;0;0;0;0;1;0;0;0;0;0;5.555555556
+Test;INDBE;Vanderstraeten Aurélien;0;1;0;0;0;0;0;0;0;0;5.555555556
+Test;INDBE;Atia Anissa;0;3;1;0;0;0;0;0;0;0;22.22222222
+Test;INDBE;??????Mukendi Darrye ?;1;2;2;2;0;0;0;0;0;0;38.88888889
